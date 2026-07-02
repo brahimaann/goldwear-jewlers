@@ -1,25 +1,21 @@
 {
-  "name": "ai-website-clone-template",
-  "version": "0.3.1",
+  "name": "goldwear-jewlers",
+  "version": "1.0.0",
   "private": true,
-  "description": "Clone any website into a clean, modern Next.js codebase using AI coding agents",
-  "author": "JCodesMore",
+  "description": "Goldwear Jewelers website in Maple Grove, MN",
+  "author": "brahimaann",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template.git"
+    "url": "https://github.com/brahimaann/goldwear-jewlers.git"
   },
-  "homepage": "https://github.com/JCodesMore/ai-website-cloner-template",
+  "homepage": "https://github.com/brahimaann/goldwear-jewlers",
   "bugs": {
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template/issues"
+    "url": "https://github.com/brahimaann/goldwear-jewlers/issues"
   },
   "keywords": [
-    "claude-code",
-    "website-clone",
-    "reverse-engineering",
+    "goldwear-jewlers",
     "nextjs",
-    "ai",
-    "template",
     "tailwindcss",
     "shadcn-ui"
   ],
